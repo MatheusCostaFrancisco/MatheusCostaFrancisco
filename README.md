@@ -1,65 +1,132 @@
+<img 
+  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+  align="right" 
+  width="320"
+/>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" alt="iamge of compute" max-width="400px" min-width="400px" />
+# Matheus Costa Francisco
 
-# :zap:Hi, I am Matheus
+Frontend Engineer focused on scalable interfaces, GIS applications and modern web architecture.
 
-
-- 💻 Sou um Desenvolvedor Front End, que ama codar e sempre busca aprender coisas novas. Sou Formado em Sistemas da Informação e Especilista em Desenvolvimento Front End pela XP Educação (IGTI). 
-- 🥋 Pratico Karate desde muito pequeno e levo o dojo kun como meu estilo de vida!
-- ⚙️ Estou estudando para me tornar um  FrontEnd Enginner e também como lidar com formas 3D na Web (Spoiler) Three.js & Framer.
-- 🗺️ Tive o prazer de desenvolver um sistema de mapas para o setor agrícola utilizando MAPBOX e consumindo dados do OpenStreetMap. Foi um grande desafio que colaborou para a empresa atender um dos maiores produtores de cana de açucar do mundo.
+I work mainly with React, Vue, TypeScript and high-performance front-end applications.  
+Currently focused on Software Architecture, AI-assisted development workflows and interactive WebGL/3D experiences.
 
 ---
 
-- 💻 I'm a Front End Developer, who loves coding and always looking to learn new things. I have a degree in Information Systems and a Specialist in Front End Development from XP Educação (IGTI).
-- 🥋 I've been practicing Karate since I was a little boy and I take dojo kun as my lifestyle!
-- ⚙️ I'm studying to become a FrontEnd Engineer and also how to deal with 3D shapes on the Web (Spoiler) Three.js & Framer.
-- 🗺️ I had the pleasure of developing a map system for the agricultural sector using MAPBOX and consuming data from OpenStreetMap. It was a great challenge that helped the company to serve one of the largest sugarcane producers of the world.
+## About Me
 
-----
+- 💼 Front-End Developer with 7+ years building production applications
+- 🎓 Degree in Information Systems
+- 🎓 Specialist in Front-End Development by XP Educação (IGTI)
+- 🎓 Currently studying Software Architecture at FIAP
+- 🗺️ Experience building GIS platforms with Mapbox and OpenStreetMap
+- ⚡ Strong focus on performance, architecture and maintainable code
+- 🤖 Applying modern AI-driven development practices with:
+  - LLMs
+  - RAG architectures
+  - AI Agents
+  - Skills-based workflows
+  - SDD (Software-Driven Development)
+  - AI-assisted engineering pipelines
+- 🧠 Exploring Three.js, Framer Motion and interactive 3D experiences
+- 🥋 Karate practitioner — discipline and consistency shape the way I work
 
-<p>
- :rocket: <strong>Linguagens & Frameworks</strong>:
- 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Vuejs](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue.js) 
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)  
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
-  
-</p>
+---
 
- 
+## Tech Stack
 
-</br>
+### Front-End
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vuedotjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css)
 
-----
+### Architecture & DevOps
+![Vite](https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite)
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=kubernetes)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)
+![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest)
 
-## Github status
+### GIS & 3D
+![Mapbox](https://img.shields.io/badge/-Mapbox-0D1117?style=for-the-badge&logo=mapbox)
+![OpenStreetMap](https://img.shields.io/badge/-OpenStreetMap-0D1117?style=for-the-badge&logo=openstreetmap)
+![Three.js](https://img.shields.io/badge/-Three.js-0D1117?style=for-the-badge&logo=threedotjs)
 
-[![card](https://github-readme-stats.vercel.app/api?username=MatheusCostaFrancisco&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCostaFrancisco&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+### AI Engineering
+![OpenAI](https://img.shields.io/badge/-OpenAI-0D1117?style=for-the-badge&logo=openai)
+![Anthropic](https://img.shields.io/badge/-Anthropic-0D1117?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/-LangChain-0D1117?style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)
 
-----
+---
 
-## Contato
+## Featured Experience
 
-<p>
-  :pencil: Gostaria de entrar em contato, veja as opções :arrow_down:
-</p>
+### GIS Platform for Agribusiness
+Developed interactive mapping systems for the agricultural sector using Mapbox and OpenStreetMap data.
+
+Worked on solutions that helped support operations for one of the world's largest sugarcane producers.
+
+### Enterprise Front-End Applications
+Experience maintaining and scaling complex enterprise systems using:
+- Vue.js
+- React
+- TypeScript
+- Symfony
+- DataTables
+- Docker/Kubernetes environments
+
+### AI-Assisted Development Workflows
+Applying modern AI engineering practices to improve:
+- development speed
+- architecture decisions
+- documentation
+- scalability
+- code quality
+- developer experience
+
+Using concepts such as:
+- RAG pipelines
+- autonomous agents
+- structured prompts
+- contextual memory systems
+- skills orchestration
+- AI-assisted software architecture
+
+---
+
+## Engineering Principles
+
+- Clean and maintainable code
+- Performance-first mindset
+- Scalable front-end architecture
+- UX-driven development
+- Continuous learning
+- AI-enhanced engineering workflows
+
+---
+
+## Currently Learning
+
+- Software Architecture
+- Advanced Frontend Engineering
+- AI Engineering & Agentic Workflows
+- Web Performance Optimization
+- Three.js & WebGL
+- Scalable Front-End Systems
+
+---
+
+## Contact
 
 <p align="left">
-  <a href="mailto:matheusccontato@gmail.com" />
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+  <a href="mailto:matheusccontato@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-  <a href="https://www.linkedin.com/in/matheus-costa-francisco/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p> 
+  <a href="https://www.linkedin.com/in/matheus-costa-francisco/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
