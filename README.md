@@ -15,7 +15,7 @@ Currently focused on Software Architecture, AI-assisted development workflows an
 
 ## About Me
 
-- 💼 Front-End Developer with 7+ years building production applications
+- 💼 Front-End Developer with 9+ years building production applications
 - 🎓 Degree in Information Systems
 - 🎓 Specialist in Front-End Development by XP Educação (IGTI)
 - 🎓 Currently studying Software Architecture at FIAP
